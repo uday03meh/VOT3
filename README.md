@@ -1,4 +1,4 @@
-#VOT3
+# VOT3
  
 It is a voting application for decentralised and anonymous voting where users can vote and register themselves as candidates and a user can vote only once and winner can only be declared by the owner of the smart contract.
 
